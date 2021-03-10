@@ -7,9 +7,9 @@ The inspiration for the game stemmed from a lot of different games such as Final
 
 # Demo
 
-👉 Watch the demo<a href="https://www.youtube.com/watch?v=A7PIuR2VSYE">here!</a>
+👉 Watch it <a href="https://www.youtube.com/watch?v=A7PIuR2VSYE">here!</a>
 
-<img src="frontend/images/TacticsLite_Screenshot.png" alt="tactics-lite-SS>
+<img src="frontend/images/TacticsLite_Screenshot.png" width="638">
 
 <img src="https://j.gifs.com/P7R88l.gif">
 
@@ -53,9 +53,13 @@ Before you start the game, ensure you follow these steps:
 # Features
 
 ✅ Two Player System
+
 ✅ Team Turn Based
+
 ✅ Class System
+
 ✅ Balanced / Diverse Class Stats
+
 ✅ Canvas Grid like Map
 
 
